@@ -24,6 +24,16 @@
 13. [KIP-735: Increase default consumer session timeout](https://cwiki.apache.org/confluence/display/KAFKA/KIP-735%3A+Increase+default+consumer+session+timeout)
 14. [KIP-699: Update FindCoordinator to resolve multiple Coordinators at a time](https://cwiki.apache.org/confluence/display/KAFKA/KIP-699%3A+Update+FindCoordinator+to+resolve+multiple+Coordinators+at+a+time)
 
+### Scaling - metrics and tools
+1. [Keda for Apache Kafka](https://keda.sh/docs/2.13/scalers/apache-kafka/)
+2. [Knative metrics](https://knative.dev/docs/serving/autoscaling/autoscaling-metrics/)
+3. [Knative Source for Apache Kafka](https://knative.dev/docs/eventing/sources/kafka-source/)
+4. [Kafka Consumers Scheduling and Scaling](https://docs.google.com/document/d/1UktwiDyqq07MtA7pUlahEpux5CCdAsyI6k3nkQeeqXw/edit#heading=h.n8a530nnrb)
+5. [Kafka Lag Exporter ](https://github.com/seglo/kafka-lag-exporter)
+6. [Aiven lag predictor (docs)](https://aiven.io/docs/products/kafka/concepts/consumer-lag-predictor) 
+7. [Burrow](https://github.com/linkedin/Burrow)
+
+
 ### Other useful materials by Olena Kutsenko and Olena Babenko
 1. [Kafka Summit London 2023: The Dark and Dirty Side of Fixing Uneven Partitions](https://www.confluent.io/events/kafka-summit-london-2023/the-dark-and-dirty-side-of-fixing-uneven-partitions/)
 2. [Prevent uneven distribution of data across Apache Kafka® partitions - Olena Babenko](https://www.youtube.com/watch?v=tQMfXmzBnaQ)
