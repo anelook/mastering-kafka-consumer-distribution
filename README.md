@@ -29,9 +29,10 @@
 2. [Knative metrics](https://knative.dev/docs/serving/autoscaling/autoscaling-metrics/)
 3. [Knative Source for Apache Kafka](https://knative.dev/docs/eventing/sources/kafka-source/)
 4. [Kafka Consumers Scheduling and Scaling](https://docs.google.com/document/d/1UktwiDyqq07MtA7pUlahEpux5CCdAsyI6k3nkQeeqXw/edit#heading=h.n8a530nnrb)
-5. [Kafka Lag Exporter ](https://github.com/seglo/kafka-lag-exporter)
-6. [Aiven lag predictor (docs)](https://aiven.io/docs/products/kafka/concepts/consumer-lag-predictor) 
-7. [Burrow](https://github.com/linkedin/Burrow)
+5. [Seglo - Kafka Lag Exporter GitHub](https://github.com/seglo/kafka-lag-exporter)
+6. [Seglo - Lag Expoerter Description](https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter)
+7. [Aiven lag predictor (docs)](https://aiven.io/docs/products/kafka/concepts/consumer-lag-predictor) 
+8. [Burrow](https://github.com/linkedin/Burrow)
 
 
 ### Other useful materials by Olena Kutsenko and Olena Babenko
