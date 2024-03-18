@@ -46,7 +46,7 @@
 
 
 ### Aiven for Apache Kafka
-**Register your Aiven for Apache Kafka service with extra credits at (Aiven)[https://go.aiven.io/olena-sign-up].**
+**Register your Aiven for Apache Kafka service with extra credits at [Aiven](https://go.aiven.io/olena-sign-up).**
 
 ### Follow more updates and articles from us on
 
