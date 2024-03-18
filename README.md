@@ -45,7 +45,10 @@
 7. [Connecting Apache Kafka® and Aiven for ClickHouse®](https://aiven.io/developer/connecting-kafka-and-clickhouse)
 
 
-Follow more updates and articles from us on
+### Aiven for Apache Kafka
+**Register your Aiven for Apache Kafka service with extra credits at (Aiven)[https://go.aiven.io/olena-sign-up].**
+
+### Follow more updates and articles from us on
 
 LinkedIn: 
 - [https://www.linkedin.com/in/olenakutsenko/](https://www.linkedin.com/in/olenakutsenko/)
