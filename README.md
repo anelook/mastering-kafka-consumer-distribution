@@ -1,6 +1,8 @@
 # Mastering Kafka consumer distribution 
 ## A guide to efficient scaling and resource optimization
 
+Slides can be found [here](https://docs.google.com/presentation/d/1gWVo8MPYYlVjhnJUnK-Lv9EQ4ijCUEVwRmcWo2zes5k/edit?usp=sharing) 
+
 ### Key KIPs:
 
 1. [KIP-848: The Next Generation of the Consumer Rebalance Protocol](https://cwiki.apache.org/confluence/display/KAFKA/KIP-848%3A+The+Next+Generation+of+the+Consumer+Rebalance+Protocol)
