@@ -1,5 +1,6 @@
-# Mastering Kafka consumer distribution 
-## A guide to efficient scaling and resource optimization
+# Mastering Kafka consumer distribution. A guide to efficient scaling and resource optimization
+
+## Additional info and links:
 
 Slides can be found [here](https://docs.google.com/presentation/d/1gWVo8MPYYlVjhnJUnK-Lv9EQ4ijCUEVwRmcWo2zes5k/edit?usp=sharing) 
 
